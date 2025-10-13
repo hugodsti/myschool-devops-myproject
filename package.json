@@ -1,0 +1,24 @@
+{
+  "name": "myschool-devops-myproject",
+  "version": "1.0.0",
+  "description": "test tp1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugodsti/myschool-devops-myproject.git"
+  },
+  "keywords": [],
+  "author": "hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugodsti/myschool-devops-myproject/issues"
+  },
+  "homepage": "https://github.com/hugodsti/myschool-devops-myproject#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
